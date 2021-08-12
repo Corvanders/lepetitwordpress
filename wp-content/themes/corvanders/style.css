@@ -12,5 +12,13 @@ body {
     background: #FFFFFF;
     font-family: "Source Sans Pro";
     color: #4b5157;
-    margin: 0 auto;
+    margin: 0;
+    padding: 0;
   }
+
+html{
+  border: 1px solid blue;
+  margin: 0;
+  padding: 0;
+}
+

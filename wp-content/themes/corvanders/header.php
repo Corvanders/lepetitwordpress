@@ -16,18 +16,18 @@
     
 <nav id="navigation">
 
-    <div class="nav-wrapper">
-      <a href="#" class="brand-logo">François</a>
+    <div class="nav-wrapper grey lighten-1">
+      <div class="container">
+      <a href="index.php" class="brand-logo">Le monde de François</a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
-        <li><a href="sass.html">Bof</a></li>
-        <li><a href="badges.html">Bif</a></li>
-        <li><a href="collapsible.html">Baf</a></li>
+       
       </ul>
     </div>
-
+</div>
         
 
 </nav>
+
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
