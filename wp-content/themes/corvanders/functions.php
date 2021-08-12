@@ -8,7 +8,7 @@ add_action('after_setup_theme', 'App\corvanders');
 
 function corvanders_register_assets(){
    
-    wp_register_style('materialize',' <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">');
+    wp_register_style('materialize','https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css');
 }
 
 add_action('after_setup_theme','App\corvanders_supports');
